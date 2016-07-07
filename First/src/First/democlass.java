@@ -40,7 +40,7 @@ public class democlass implements interfacedemo {
 		System.out.println("Enter Second number");
 		val2=input.nextInt();
 		
-		System.out.println("Enter your Selection:\n 1)Addition,\n 2)Subtraction,\n 3)Multiply, \n 4)Divide");
+		System.out.println("Enter Selection:\n 1)Addition,\n 2)Subtraction,\n 3)Multiply, \n 4)Divide");
 		choice=input.nextInt();
 		
 		switch(choice){
